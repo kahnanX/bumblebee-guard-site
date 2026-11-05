@@ -1,0 +1,515 @@
+{
+ "generated_at": "2026-11-05T03:57:00.356654+00:00",
+ "host": "yu-oci (Oracle Cloud, 1 vCPU/24GB class, Ubuntu)",
+ "fresh_scan": {
+  "ts_utc": "2026-11-05T03:52:46.010814779Z",
+  "duration_ms": 179977,
+  "files_considered": 409975,
+  "packages_total": 10343,
+  "ecosystems": {
+   "npm": 9004,
+   "pypi": 1336,
+   "mcp": 3
+  },
+  "findings_total": 0,
+  "findings_new_since_last": 0,
+  "osv_findings_total": 454,
+  "status": "complete",
+  "provenance": "~/.local/state/hermes-bumblebee-bridge/bumblebee-summary.json, run executed live 2026-11-05T03:52Z"
+ },
+ "scanner_version": "v0.1.1",
+ "catalogs": {
+  "count": 8,
+  "total_entries": 675,
+  "files": [
+   {
+    "file": "antv-mini-shai-hulud.json",
+    "entries": 327
+   },
+   {
+    "file": "gemstuffer.json",
+    "entries": 126
+   },
+   {
+    "file": "laravel-lang-2026-05-23.json",
+    "entries": 6
+   },
+   {
+    "file": "mini-shai-hulud.json",
+    "entries": 174
+   },
+   {
+    "file": "node-ipc-credential-stealer.json",
+    "entries": 3
+   },
+   {
+    "file": "nx-console-vscode-2026-05-18.json",
+    "entries": 4
+   },
+   {
+    "file": "shopsprint-decimal-typosquat.json",
+    "entries": 3
+   },
+   {
+    "file": "trapdoor-crypto-stealer.json",
+    "entries": 32
+   }
+  ],
+  "provenance": "~/.local/share/hermes-bumblebee-bridge/catalogs/, upstream perplexityai/bumblebee threat_intel"
+ },
+ "historical_series": {
+  "points": 33,
+  "window": {
+   "min_ts": "20261005T072725",
+   "max_ts": "20261104T072712"
+  },
+  "packages": [
+   {
+    "ts": "20261005T072725",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1223,
+     "mcp": 9,
+     "npm": 9007
+    }
+   },
+   {
+    "ts": "20261006T072716",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1223,
+     "mcp": 9,
+     "npm": 9007
+    }
+   },
+   {
+    "ts": "20261006T145038",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1382,
+     "mcp": 9,
+     "npm": 9215
+    }
+   },
+   {
+    "ts": "20261007T072713",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1382,
+     "mcp": 9,
+     "npm": 9215
+    }
+   },
+   {
+    "ts": "20261008T072734",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1603,
+     "mcp": 9,
+     "npm": 9423
+    }
+   },
+   {
+    "ts": "20261009T072735",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1603,
+     "mcp": 9,
+     "npm": 9423
+    }
+   },
+   {
+    "ts": "20261010T072804",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1603,
+     "mcp": 9,
+     "npm": 9423
+    }
+   },
+   {
+    "ts": "20261011T072804",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1603,
+     "mcp": 9,
+     "npm": 9423
+    }
+   },
+   {
+    "ts": "20261012T072727",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1603,
+     "mcp": 9,
+     "npm": 9423
+    }
+   },
+   {
+    "ts": "20261013T072807",
+    "unique_packages": 3233,
+    "ecosystems": {
+     "pypi": 1604,
+     "mcp": 3,
+     "npm": 9423
+    }
+   },
+   {
+    "ts": "20261014T072737",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1163,
+     "mcp": 3,
+     "npm": 8946
+    }
+   },
+   {
+    "ts": "20261015T072731",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1163,
+     "mcp": 3,
+     "npm": 8946
+    }
+   },
+   {
+    "ts": "20261016T072729",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1163,
+     "mcp": 3,
+     "npm": 8946
+    }
+   },
+   {
+    "ts": "20261017T072804",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1163,
+     "mcp": 3,
+     "npm": 8946
+    }
+   },
+   {
+    "ts": "20261018T072715",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1277,
+     "mcp": 3,
+     "npm": 9050
+    }
+   },
+   {
+    "ts": "20261019T072730",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1277,
+     "mcp": 3,
+     "npm": 9050
+    }
+   },
+   {
+    "ts": "20261020T072805",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1277,
+     "mcp": 3,
+     "npm": 9050
+    }
+   },
+   {
+    "ts": "20261021T072717",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1277,
+     "mcp": 3,
+     "npm": 9050
+    }
+   },
+   {
+    "ts": "20261022T072736",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1277,
+     "mcp": 3,
+     "npm": 9050
+    }
+   },
+   {
+    "ts": "20261022T203726",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1277,
+     "mcp": 3,
+     "npm": 9050
+    }
+   },
+   {
+    "ts": "20261023T072803",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261024T072732",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261025T072732",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261026T072709",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261027T072718",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261028T072723",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261029T072737",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261030T072735",
+    "unique_packages": 3244,
+    "ecosystems": {
+     "pypi": 1391,
+     "mcp": 3,
+     "npm": 9154
+    }
+   },
+   {
+    "ts": "20261031T200821",
+    "unique_packages": 3234,
+    "ecosystems": {
+     "pypi": 1314,
+     "mcp": 3,
+     "npm": 9037
+    }
+   },
+   {
+    "ts": "20261101T072755",
+    "unique_packages": 3234,
+    "ecosystems": {
+     "pypi": 1314,
+     "mcp": 3,
+     "npm": 9037
+    }
+   },
+   {
+    "ts": "20261102T072727",
+    "unique_packages": 3234,
+    "ecosystems": {
+     "pypi": 1314,
+     "mcp": 3,
+     "npm": 9037
+    }
+   },
+   {
+    "ts": "20261103T072740",
+    "unique_packages": 3234,
+    "ecosystems": {
+     "pypi": 1314,
+     "mcp": 3,
+     "npm": 9037
+    }
+   },
+   {
+    "ts": "20261104T072712",
+    "unique_packages": 3234,
+    "ecosystems": {
+     "pypi": 1314,
+     "mcp": 3,
+     "npm": 9037
+    }
+   }
+  ],
+  "osv": [
+   {
+    "ts": "20261006T145038",
+    "packages_with_advisories": 10606
+   },
+   {
+    "ts": "20261007T072713",
+    "packages_with_advisories": 10606
+   },
+   {
+    "ts": "20261008T072734",
+    "packages_with_advisories": 11035
+   },
+   {
+    "ts": "20261009T072735",
+    "packages_with_advisories": 11035
+   },
+   {
+    "ts": "20261010T072804",
+    "packages_with_advisories": 11035
+   },
+   {
+    "ts": "20261011T072804",
+    "packages_with_advisories": 11035
+   },
+   {
+    "ts": "20261012T072727",
+    "packages_with_advisories": 11035
+   },
+   {
+    "ts": "20261013T072807",
+    "packages_with_advisories": 11030
+   },
+   {
+    "ts": "20261014T072737",
+    "packages_with_advisories": 10112
+   },
+   {
+    "ts": "20261015T072731",
+    "packages_with_advisories": 10112
+   },
+   {
+    "ts": "20261016T072729",
+    "packages_with_advisories": 10112
+   },
+   {
+    "ts": "20261017T072804",
+    "packages_with_advisories": 10112
+   },
+   {
+    "ts": "20261018T072715",
+    "packages_with_advisories": 10330
+   },
+   {
+    "ts": "20261019T072730",
+    "packages_with_advisories": 10330
+   },
+   {
+    "ts": "20261020T072805",
+    "packages_with_advisories": 10330
+   },
+   {
+    "ts": "20261021T072717",
+    "packages_with_advisories": 10330
+   },
+   {
+    "ts": "20261022T072736",
+    "packages_with_advisories": 10330
+   },
+   {
+    "ts": "20261022T203726",
+    "packages_with_advisories": 10330
+   },
+   {
+    "ts": "20261023T072803",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261024T072732",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261025T072732",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261026T072709",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261027T072718",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261028T072723",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261029T072737",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261030T072735",
+    "packages_with_advisories": 10548
+   },
+   {
+    "ts": "20261031T200821",
+    "packages_with_advisories": 10354
+   },
+   {
+    "ts": "20261101T072755",
+    "packages_with_advisories": 10354
+   },
+   {
+    "ts": "20261102T072727",
+    "packages_with_advisories": 10354
+   },
+   {
+    "ts": "20261103T072740",
+    "packages_with_advisories": 10354
+   },
+   {
+    "ts": "20261104T072712",
+    "packages_with_advisories": 10354
+   },
+   {
+    "ts": "manual-test-osv",
+    "packages_with_advisories": 10239
+   }
+  ],
+  "provenance": "~/.local/share/hermes-bumblebee-bridge/runs/*-deep.ndjson + *-osv.jsonl (per-run artifacts)"
+ },
+ "osv_layer": {
+  "deployed": "2026-10-06 (GO Neo 19:00), resolver osv_resolver.py in daily_scan.sh",
+  "validation_run": {
+   "packages_with_advisories": 421,
+   "note": "pip 24.0->12 advisories, urllib3 2.7.0->6",
+   "provenance": "G5 deployment validation 06/10/2026"
+  },
+  "today": {
+   "osv_findings_total": 454,
+   "note": "deduped packages-with-advisories count; raw jsonl rows ~11k incl. repeats"
+  }
+ },
+ "cadence": "daily 07:27 UTC (cron chain aaa78c13f0b -> bumblebee-scan.sh -> daily_scan.sh)",
+ "gaps": [
+  "per-run curated findings_total historical series not stored per run (state keeps only latest finding_ids); all observed scans returned findings_total=0",
+  "severity fields null in OSV advisories (OSV.dev does not always emit severity)",
+  "unique_packages in ndjson series (~3.2k) < packages_total in summary (~10.3k): ndjson rows are per-installation records; both metrics kept separate, do not mix"
+ ]
+}

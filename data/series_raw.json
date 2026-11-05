@@ -1,0 +1,431 @@
+{
+ "packages_series": [
+  {
+   "ts": "20261005T072725",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1223,
+    "mcp": 9,
+    "npm": 9007
+   }
+  },
+  {
+   "ts": "20261006T072716",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1223,
+    "mcp": 9,
+    "npm": 9007
+   }
+  },
+  {
+   "ts": "20261006T145038",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1382,
+    "mcp": 9,
+    "npm": 9215
+   }
+  },
+  {
+   "ts": "20261007T072713",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1382,
+    "mcp": 9,
+    "npm": 9215
+   }
+  },
+  {
+   "ts": "20261008T072734",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1603,
+    "mcp": 9,
+    "npm": 9423
+   }
+  },
+  {
+   "ts": "20261009T072735",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1603,
+    "mcp": 9,
+    "npm": 9423
+   }
+  },
+  {
+   "ts": "20261010T072804",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1603,
+    "mcp": 9,
+    "npm": 9423
+   }
+  },
+  {
+   "ts": "20261011T072804",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1603,
+    "mcp": 9,
+    "npm": 9423
+   }
+  },
+  {
+   "ts": "20261012T072727",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1603,
+    "mcp": 9,
+    "npm": 9423
+   }
+  },
+  {
+   "ts": "20261013T072807",
+   "unique_packages": 3233,
+   "ecosystems": {
+    "pypi": 1604,
+    "mcp": 3,
+    "npm": 9423
+   }
+  },
+  {
+   "ts": "20261014T072737",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1163,
+    "mcp": 3,
+    "npm": 8946
+   }
+  },
+  {
+   "ts": "20261015T072731",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1163,
+    "mcp": 3,
+    "npm": 8946
+   }
+  },
+  {
+   "ts": "20261016T072729",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1163,
+    "mcp": 3,
+    "npm": 8946
+   }
+  },
+  {
+   "ts": "20261017T072804",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1163,
+    "mcp": 3,
+    "npm": 8946
+   }
+  },
+  {
+   "ts": "20261018T072715",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1277,
+    "mcp": 3,
+    "npm": 9050
+   }
+  },
+  {
+   "ts": "20261019T072730",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1277,
+    "mcp": 3,
+    "npm": 9050
+   }
+  },
+  {
+   "ts": "20261020T072805",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1277,
+    "mcp": 3,
+    "npm": 9050
+   }
+  },
+  {
+   "ts": "20261021T072717",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1277,
+    "mcp": 3,
+    "npm": 9050
+   }
+  },
+  {
+   "ts": "20261022T072736",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1277,
+    "mcp": 3,
+    "npm": 9050
+   }
+  },
+  {
+   "ts": "20261022T203726",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1277,
+    "mcp": 3,
+    "npm": 9050
+   }
+  },
+  {
+   "ts": "20261023T072803",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261024T072732",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261025T072732",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261026T072709",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261027T072718",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261028T072723",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261029T072737",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261030T072735",
+   "unique_packages": 3244,
+   "ecosystems": {
+    "pypi": 1391,
+    "mcp": 3,
+    "npm": 9154
+   }
+  },
+  {
+   "ts": "20261031T200821",
+   "unique_packages": 3234,
+   "ecosystems": {
+    "pypi": 1314,
+    "mcp": 3,
+    "npm": 9037
+   }
+  },
+  {
+   "ts": "20261101T072755",
+   "unique_packages": 3234,
+   "ecosystems": {
+    "pypi": 1314,
+    "mcp": 3,
+    "npm": 9037
+   }
+  },
+  {
+   "ts": "20261102T072727",
+   "unique_packages": 3234,
+   "ecosystems": {
+    "pypi": 1314,
+    "mcp": 3,
+    "npm": 9037
+   }
+  },
+  {
+   "ts": "20261103T072740",
+   "unique_packages": 3234,
+   "ecosystems": {
+    "pypi": 1314,
+    "mcp": 3,
+    "npm": 9037
+   }
+  },
+  {
+   "ts": "20261104T072712",
+   "unique_packages": 3234,
+   "ecosystems": {
+    "pypi": 1314,
+    "mcp": 3,
+    "npm": 9037
+   }
+  }
+ ],
+ "osv_series": [
+  {
+   "ts": "20261006T145038",
+   "packages_with_advisories": 10606
+  },
+  {
+   "ts": "20261007T072713",
+   "packages_with_advisories": 10606
+  },
+  {
+   "ts": "20261008T072734",
+   "packages_with_advisories": 11035
+  },
+  {
+   "ts": "20261009T072735",
+   "packages_with_advisories": 11035
+  },
+  {
+   "ts": "20261010T072804",
+   "packages_with_advisories": 11035
+  },
+  {
+   "ts": "20261011T072804",
+   "packages_with_advisories": 11035
+  },
+  {
+   "ts": "20261012T072727",
+   "packages_with_advisories": 11035
+  },
+  {
+   "ts": "20261013T072807",
+   "packages_with_advisories": 11030
+  },
+  {
+   "ts": "20261014T072737",
+   "packages_with_advisories": 10112
+  },
+  {
+   "ts": "20261015T072731",
+   "packages_with_advisories": 10112
+  },
+  {
+   "ts": "20261016T072729",
+   "packages_with_advisories": 10112
+  },
+  {
+   "ts": "20261017T072804",
+   "packages_with_advisories": 10112
+  },
+  {
+   "ts": "20261018T072715",
+   "packages_with_advisories": 10330
+  },
+  {
+   "ts": "20261019T072730",
+   "packages_with_advisories": 10330
+  },
+  {
+   "ts": "20261020T072805",
+   "packages_with_advisories": 10330
+  },
+  {
+   "ts": "20261021T072717",
+   "packages_with_advisories": 10330
+  },
+  {
+   "ts": "20261022T072736",
+   "packages_with_advisories": 10330
+  },
+  {
+   "ts": "20261022T203726",
+   "packages_with_advisories": 10330
+  },
+  {
+   "ts": "20261023T072803",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261024T072732",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261025T072732",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261026T072709",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261027T072718",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261028T072723",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261029T072737",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261030T072735",
+   "packages_with_advisories": 10548
+  },
+  {
+   "ts": "20261031T200821",
+   "packages_with_advisories": 10354
+  },
+  {
+   "ts": "20261101T072755",
+   "packages_with_advisories": 10354
+  },
+  {
+   "ts": "20261102T072727",
+   "packages_with_advisories": 10354
+  },
+  {
+   "ts": "20261103T072740",
+   "packages_with_advisories": 10354
+  },
+  {
+   "ts": "20261104T072712",
+   "packages_with_advisories": 10354
+  },
+  {
+   "ts": "manual-test-osv",
+   "packages_with_advisories": 10239
+  }
+ ]
+}
