@@ -127,7 +127,7 @@ const pk=[["2026-10-05T07:27Z", 3233], ["2026-10-06T07:27Z", 3233], ["2026-10-06
 const C=()=>getComputedStyle(document.documentElement);
 Chart.defaults.color=C().getPropertyValue('--dim');
 Chart.defaults.borderColor=C().getPropertyValue('--line');
-const line=(id,data,label,color,fill)=>new Chart(document.getElementById(id),{type:'line',data:{datasets:[{label,data:data.map(d=>({x:d[0],y:d[1]})),borderColor:color,backgroundColor:fill,borderWidth:2,pointRadius:2,tension:.25}]},options:{parsing:false,scales:{x:{type:'time',time:{unit:'day',tooltipFormat:'yyyy-MM-dd HH:mm'},ticks:{maxTicksLimit:8}},y:{beginAtZero:true}},plugins:{legend:{display:false}}}});
+const line=(id,data,label,color,fill)=>new Chart(document.getElementById(id),{type:'line',data:{datasets:[{label,data:data.map(d=>({x:d[0],y:d[1]})),borderColor:color,backgroundColor:fill,borderWidth:2,pointRadius:2,tension:.25}]},options:{scales:{x:{type:'time',time:{unit:'day',tooltipFormat:'yyyy-MM-dd HH:mm'},ticks:{maxTicksLimit:8}},y:{beginAtZero:true}},plugins:{legend:{display:false}}}});
 line('c1',pk,'unique packages','#5cb8ff','rgba(92,184,255,.08)');
 line('c2',osv,'packages with advisories','#ffc65c','rgba(255,198,92,.08)');
 new Chart(document.getElementById('c3'),{type:'bar',data:{labels:cats.map(c=>c[0]),datasets:[{label:'entries',data:cats.map(c=>c[1]),backgroundColor:'#2fd77c'}]},options:{plugins:{legend:{display:false}},scales:{y:{type:'logarithmic'}}}});
